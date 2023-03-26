@@ -1,11 +1,53 @@
-### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/yJw7xWd4KB">
-  <img align="left" alt="https://discord.gg/yJw7xWd4KB" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.spigotmc.org/members/koko_red.908175">
-  <img align="left" alt="Koko_red's spigot page" width="22px" src="https://static.spigotmc.org/img/spigot.png" />
-</a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=kokored7214.kokored7214" />
+<h3>About me :)</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokored7214&layout=compact)
-![Kokored's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokored7214&show_icons=true&count_private=true)
+<p>
+  Hi there! I am Kokored
+  <br><code>Aka</code> Dumshark
+</p>
+
+<h4>Coding languages i'm now using:</h4>
+<p>
+  <a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://badges.aleen42.com/src/java.svg">
+  </a>
+  → Java
+  <br><a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://badges.aleen42.com/src/node.svg">
+  </a>
+  → Node.js
+</p>
+
+<h4>Coding languages i'm now learning:</h4>
+<p>
+  <a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://badges.aleen42.com/src/react.svg">
+  </a>
+  → React
+</p>
+
+<h4>Coding IDEs i'm now using:</h4>
+<p>
+  <a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
+  </a>
+  → VSCode
+  <br><a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://badges.aleen42.com/src/idea.svg">
+  </a>
+  → Intellij IDEA
+</p>
+
+<h3>My github</h3>
+
+<p>
+  <a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kokored7214&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  </a>
+  <br><a href="https://github.com/Kokored7214/Kokored7214">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kokored7214&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact">
+  </a>
+</p>
+
+<h3>Support</h3>
+
+<a href="https://www.buymeacoffee.com/Koko_red7214"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="123" /></a>
