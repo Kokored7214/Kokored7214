@@ -50,4 +50,4 @@
 
 <h3>Support</h3>
 
-<a href="https://www.buymeacoffee.com/Koko_red7214"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="123" /></a>
+https://buy.stripe.com/5kA01M1wPdlNcOAcMN
